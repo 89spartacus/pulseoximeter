@@ -1,2 +1,3 @@
 # Pulse oximeter
-In this project I'll implement a pulse oximeter setup code
+In this project a pulse oximeter kit is setup with some sample code
+The Kit is part of the project thesis found in the Wiki.
